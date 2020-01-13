@@ -2,8 +2,6 @@
 
 Dockerfile to build a container image enclosing [mdBook](https://github.com/azerupi/mdBook).
 
-[![Travis Build Status](https://travis-ci.org/hrektts/docker-mdbook.svg?branch=master)](https://travis-ci.org/hrektts/docker-mdbook)
-
 ## Usage
 
 ``` shell
